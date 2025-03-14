@@ -12,6 +12,10 @@ public class ReverseLR {
         Scanner sc = new Scanner(System.in); 
         int n = sc.nextInt();
 
+        for (int i = n / 2; i >= 1; i--) { 
+            System.out.print(i + " "); 
+        } 
+
 
     }
 }
