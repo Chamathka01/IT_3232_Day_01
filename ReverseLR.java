@@ -15,6 +15,9 @@ public class ReverseLR {
         for (int i = n / 2; i >= 1; i--) { 
             System.out.print(i + " "); 
         } 
+        for (int i = (n / 2) + 1; i <= n; i++) { 
+            System.out.print(i + " "); 
+        } 
 
 
     }
