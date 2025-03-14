@@ -1,7 +1,7 @@
 /*implement classes for the given scenario:
-	- A reatail store which can store,edit,and delete multiple products like fruits, vegetables, grocery, etc..
+	- A retail store which can store,edit,and delete multiple products like fruits, vegetables, grocery, etc..
 	- display the avilabe products like price, name, quantity*/
-    
+
 class Product {
     String name;
     double price;
