@@ -1,4 +1,4 @@
-/*07) implement classes for a Library
+/*implement classes for a Library
 There are different type of books are available in the
 library like Printed books, E books, and Audio books
 
