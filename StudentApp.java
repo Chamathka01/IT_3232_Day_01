@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 public class StudentApp {
     public static void main(String[] args) {
         ArrayList<Student> students = new ArrayList<>();
@@ -11,7 +12,7 @@ public class StudentApp {
 
         int totalMarks = 0;
             for (Student s : students) {
-                totalMarks += s.getMarks();  // Using getter
+                totalMarks += s.getMarks();
             }
 
         double average = (double) totalMarks / students.size();
