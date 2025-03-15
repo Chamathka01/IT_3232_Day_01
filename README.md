@@ -1,6 +1,9 @@
 # IT_3232_Day_01
 
+## 2020/ICT/57
+
 # Java Programming Exercises 🚀
+
 
 ## Introduction
 This repository contains various Java programs covering **Object-Oriented Programming (OOP), basic Java operations, and algorithms**. The project includes:
@@ -8,6 +11,8 @@ This repository contains various Java programs covering **Object-Oriented Progra
 - **Student Management**: Calculates average student marks.
 - **Library System**: Uses inheritance and polymorphism to manage different book types.
 - **Retail System**: Demonstrates encapsulation and basic business logic.
+
+
 
 ## 📂 Project Structure
 ```
@@ -28,9 +33,9 @@ IT_3232_Day_01-main/
 │   ├── Product.java
 │   ├── Retail.java
 │── README.md
-│
-│
+
 ```
+
 
 ## 🚀 **Features**
 
@@ -38,7 +43,7 @@ IT_3232_Day_01-main/
 - `PrintMessage.java` → Print messages.
 - `PrintNum.java` → Prints a sequence of numbers.
 - `Reverse.java` → Reverses a number.
-- `OddEven.java` → Checks if a number is **odd or even**.
+- `OddEven.java` → Checks if a number is odd or even.
 - `ReverseLR.java` → Swaps left and right parts of a number.
 
 ### 2️⃣ **Student Management System 🎓**
@@ -54,11 +59,15 @@ IT_3232_Day_01-main/
 
 ### 4️⃣ **Retail & Product System 🛒**
 - `Product.java` → Represents a product with attributes.
-- `Retail.java` → Implements simple **business logic**.
+- `Retail.java` → Implements simple business logic.
+
+
 
 ## 🛠️ Technologies Used
 - **Java** (Object-Oriented Programming)
 - **IDE:** Eclipse, IntelliJ IDEA, VS Code
+
+
 
 ## 🔧 How to Run the Project
 1. Clone this repository:
@@ -71,16 +80,20 @@ IT_3232_Day_01-main/
    javac fileName.java
    java fileName
 
-   Exanple:-javac StudentApp.java
+   Example:-javac StudentApp.java
             java StudentApp
    ```
 
-### 📌 Outputs 
-```
-PrintMessage.java
-Hello world
 
-PrintNum.java
+## 📌 Outputs 
+
+**PrintMessage.java**
+```
+Hello world
+```
+
+**PrintNum.java**
+```
 1
 2
 3
@@ -91,8 +104,10 @@ PrintNum.java
 8
 9
 10
+```
 
-Reverse.java
+**Reverse.java**
+```
 8
 7
 6
@@ -101,8 +116,10 @@ Reverse.java
 3
 2
 1
+```
 
-OddEven.java
+**OddEven.java**
+```
 1
 3
 5
@@ -113,27 +130,35 @@ OddEven.java
 15
 17
 19
+```
 
-ReverseLR.java
+**ReverseLR.java**
+```
 Enter a number: 
 9
 4 3 2 1 5 9 8 7 6
+```
 
-StudentApp.java
+**StudentApp.java**
+```
 Average Marks of Students: 82.8
+```
 
-Library.java
+**Library.java**
+```
 Harry Potter and the Sorcerer's Stone by J. K. Rowling , 100 pages
 The Lord of the Rings by J.R.R Tolkien , Format: PDF
 The Deep by Rivers Solomon , Duration: 10.5 hours
+```
 
-Main.java
+**Main.java**
+```
 Available Products:
 Orange - Rs.50.0 - 40 in stock
 leeks - Rs.90.0 - 200 in stock
 Flour - Rs.200.0 - 150 in stock
 ```
 
----
+
 
 
