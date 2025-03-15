@@ -79,9 +79,12 @@ IT_3232_Day_01-main/
    ```sh
    javac fileName.java
    java fileName
+   ```
 
-   Example:-javac StudentApp.java
-            java StudentApp
+   Example :-
+   ```
+   javac StudentApp.java
+   java StudentApp
    ```
 
 
