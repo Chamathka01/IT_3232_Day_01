@@ -157,9 +157,9 @@ The Deep by Rivers Solomon , Duration: 10.5 hours
 **Main.java**
 ```
 Available Products:
-Orange - Rs.50.0 - 40 in stock
-leeks - Rs.90.0 - 200 in stock
-Flour - Rs.200.0 - 150 in stock
+Orange - Rs.50.00 - 40 in stock
+leeks - Rs.90.00 - 200 in stock
+Flour - Rs.200.00 - 150 in stock
 ```
 
 
