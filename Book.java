@@ -2,7 +2,7 @@
 There are different type of books are available in the
 library like Printed books, E books, and Audio books
 
-You must use inhertance, polymorphism, encapuslation...*/
+You must use inheritance, polymorphism, encapsulation...*/
 
 class Book{
     private String title;
